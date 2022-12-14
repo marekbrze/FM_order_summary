@@ -1,6 +1,6 @@
-# Frontend Mentor - **\*\***\_\_**\*\*** solution
+# Frontend Mentor - Order summary component solution
 
-This is a solution to the [\***\*\_\_\_\_\*\*** challenge on Frontend Mentor](). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Order summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -25,8 +25,8 @@ This is a solution to the [\***\*\_\_\_\_\*\*** challenge on Frontend Mentor]().
 
 <!-- TODO -->
 
-- [Link to the Git repository]()
-- [Live Demo]()
+- [Link to the Git repository](https://github.com/marekbrze/FM_order_summary)
+- [Live Demo](https://marekbrze.github.io/FM_order_summary/)
 
 ## My process
 
